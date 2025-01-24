@@ -1,7 +1,6 @@
 I have implemented a simple GPT(decoder only transformer) model using PyTorch, and trained it on a toy dataset of GITA. The model is trained to predict the next word in a sentence given the previous words.
 
 ![transformer](images/encoder-decoder.png)
-<img src="images/encoder-decoder.png" alt="transformer" width="300">
 
 ### about files
 - `toygpt.py`: Contains the implementation of the GPT model and training loop
